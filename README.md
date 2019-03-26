@@ -1,1 +1,1 @@
-# webtoon_rating_predictor
+# webtoon-rating-predictor
